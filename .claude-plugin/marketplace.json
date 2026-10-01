@@ -1,0 +1,15 @@
+{
+  "name": "mcp-skills-finder",
+  "description": "Find MCP servers, agent skills and plugins for any task from inside Claude Code.",
+  "owner": {
+    "name": "AI Developers",
+    "email": "info@aidevelopers.tech"
+  },
+  "plugins": [
+    {
+      "name": "mcp-skills-finder",
+      "source": "./",
+      "description": "Find MCP servers, agent skills and plugins for any task (13,900+ listings)."
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "name": "mcp-skills-finder",
+  "displayName": "MCP & Skills Finder",
+  "version": "1.0.0",
+  "description": "Find the right MCP server, agent skill or plugin for any task. Searches a directory of 13,900+ listings and returns summaries, install commands and links. Read-only.",
+  "author": {
+    "name": "AI Developers",
+    "email": "info@aidevelopers.tech",
+    "url": "https://www.claudemarket.ai"
+  },
+  "homepage": "https://www.claudemarket.ai/mcp-server",
+  "repository": "https://github.com/aidevelopers2/mcp-skills-finder",
+  "license": "MIT",
+  "keywords": ["mcp", "mcp-servers", "skills", "plugins", "directory", "search"]
+}

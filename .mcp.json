@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "mcp-skills-finder": {
+      "type": "http",
+      "url": "https://www.claudemarket.ai/mcp-server/mcp"
+    }
+  }
+}
