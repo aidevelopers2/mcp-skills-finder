@@ -11,5 +11,13 @@
   "homepage": "https://www.claudemarket.ai/mcp-server",
   "repository": "https://github.com/aidevelopers2/mcp-skills-finder",
   "license": "MIT",
-  "keywords": ["mcp", "mcp-servers", "skills", "plugins", "directory", "search"]
+  "keywords": [
+    "mcp",
+    "mcp-servers",
+    "skills",
+    "plugins",
+    "directory",
+    "search"
+  ],
+  "privacyPolicyUrl": "https://www.claudemarket.ai/privacy"
 }
