@@ -1,7 +1,7 @@
 {
   "name": "mcp-skills-finder",
   "displayName": "MCP & Skills Finder",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Find the right MCP server, agent skill or plugin for any task. Searches a directory of 13,900+ listings and returns summaries, install commands and links. Read-only.",
   "author": {
     "name": "AI Developers",
